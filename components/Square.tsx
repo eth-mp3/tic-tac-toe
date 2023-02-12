@@ -19,4 +19,5 @@ function Square({
     </button>
     );
 }
+// Testing if GIT works
 export default Square;
